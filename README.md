@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- Light Mode -->
-<a href="https://www.linkedin.com/in/bilal-emir-kocao%C4%9Flu-375622238/#gh-light-mode-only">
+<a href="https://www.linkedin.com/in/bilal-emir-kocao%C4%9Flu-375622238/#gh-light-mode-only"target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 </a>
 <!-- Dark Mode -->
