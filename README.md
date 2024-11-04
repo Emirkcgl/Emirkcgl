@@ -26,8 +26,6 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noopener"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="30" height="30"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a>
-<a href="https://mqtt.org/" target="_blank" rel="noopener"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/MQTT_logo.svg/1280px-MQTT_logo.svg.png" alt="mqtt" width="30" height="30"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -36,5 +34,4 @@
 <a href="https://discord.com/" target="_blank" rel="noopener"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://www.gitlab.com/" target="_blank" rel="noopener"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-1-color-black-rgb.png" alt="gitlab" width="30" height="30"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="figma" width="30" height="30"/> </a>
-<a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noopener"> <img src="https://resources.jetbrains.com/storage/products/youtrack/img/meta/youtrack_logo_300x300.png" alt="youtrack" width="30" height="30"/> </a>
 </p>
