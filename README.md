@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! ⭐ I'm Emir</h2>
  
-- 👾  I’m currently learning and working with **Angular and JavaScript.**
+- 👾 I’m currently learning and working with **Angular** and anything related to **JavaScript**.
 
 - 💬  Ask me about **JavaScript, CSS and Angular.**
 
