@@ -1,10 +1,10 @@
 <h2 align="center">Hello there! ⭐ I'm Emir</h2>
  
-- 👾  I’m currently learning and working with <strong>Angular and JavaScript.</strong>
+- 👾  I’m currently learning and working with **Angular and JavaScript.**
 
-- 💬  Ask me about <strong>HTML, CSS and Responsive Web Design.</strong>
+- 💬  Ask me about **JavaScript, CSS and Angular.**
 
-- 📧  How to reach me <strong>emirkocaoglu05@gmail.com</strong>
+- 📧  How to reach me **[emirkocaoglu05@gmail.com](mailto:emirkocaoglu05@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
