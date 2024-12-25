@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.bilalemirkocaoglu.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-Up-brightgreen?style=flat-square" alt="Website Status">
+        <img src="https://img.shields.io/badge/Website-Up-brightgreen?style=flat-square" style=flat&label=www.bilalemirkocaoglu.com" alt="Website Status">
     </a>
 </p>
 
