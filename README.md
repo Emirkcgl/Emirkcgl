@@ -47,8 +47,8 @@
   <a href="https://sass-lang.com/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="30" height="30"/> 
   </a>
-  <a href="https://www.primefaces.org/primeng/" target="_blank" rel="noopener"> 
-    <img src="https://www.primefaces.org/wp-content/uploads/2020/05/primeng-logo.svg" alt="PrimeNG" width="30" height="30"/> 
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> 
   </a>
 </p>
 
