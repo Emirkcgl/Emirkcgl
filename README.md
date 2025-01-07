@@ -40,15 +40,17 @@
     
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> 
+  </a>    
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/> 
   </a>
+
+
     
 <a href="https://www.w3.org/html/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/> 
   </a>
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/> 
-  </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="28" height="28"/> 
