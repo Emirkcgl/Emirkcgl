@@ -41,3 +41,5 @@
 <a href="https://www.gitlab.com/" target="_blank" rel="noopener"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-1-color-black-rgb.png" alt="GitLab" width="30" height="30"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirkcgl&layout=compact&langs_count=6&theme=default)
