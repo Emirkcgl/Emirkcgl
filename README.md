@@ -1,8 +1,8 @@
 <h2 align="center">Hello there! ⭐ I'm Emir</h2>
 
 <p align="left">
-    <a href="https://www.bilalemirkocaoglu.com/" target="_blank">
-        <img src="https://img.shields.io/badge/www.bilalemirkocaoglu.com-Up-brightgreen?style=flat-square" alt="Website Status">
+    <a href="https://www.emirkocaoglu.com/" target="_blank">
+        <img src="https://img.shields.io/badge/www.emirkocaoglu.com-Up-brightgreen?style=flat-square" alt="Website Status">
     </a>
 </p>
 
