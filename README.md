@@ -1,87 +1,65 @@
-<h2 align="center">Hello there! ⭐ I'm Emir</h2>
+<h1 align="center">Hi there, I'm Emir! 👋</h1>
 
-<p align="left">
-    <a href="https://www.emirkocaoglu.com/" target="_blank">
-        <img src="https://img.shields.io/badge/www.emirkocaoglu.com-Up-brightgreen?style=flat-square" alt="Website Status">
-    </a>
+<h3 align="center">Frontend Developer | Building Scalable & Pixel-Perfect Web Apps</h3>
+
+<p align="center">
+  <a href="https://www.emirkocaoglu.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-www.emirkocaoglu.com-brightgreen?style=for-the-badge&logo=appveyor" alt="Website Status">
+  </a>
+  <a href="https://linkedin.com/in/bilal-emir-kocaoglu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:emirkocaoglu05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
 </p>
 
-- 👾 I’m currently learning and working with **Angular, React**, and anything related to **JavaScript**.
+---
 
-- 💬  Ask me about **JavaScript, CSS, Angular, and React.**
+### 👨‍💻 About Me
 
-- 📧  How to reach me **[emirkocaoglu05@gmail.com](mailto:emirkocaoglu05@gmail.com)**
+* 🚀 I’m a **Frontend Developer** with 2+ years of experience, currently building responsive and user-centric applications at **MentalUP**.
+* 💡 I specialize in modern JavaScript/TypeScript ecosystems, focusing on **React, Next.js, and Angular**.
+* 🎯 My expertise lies in advanced state management (**Zustand, Redux Toolkit**), RESTful API integrations, and crafting pixel-perfect UIs using **Tailwind CSS and SCSS**.
+* ⚡ Experienced in all phases of the Software Development Life Cycle (SDLC) within agile teams.
+* 💬 Ask me about: **Next.js, React, Angular, TypeScript, and State Management.**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Technologies & Tools
+
+<h4 align="left">Core Stack:</h4>
 <p align="left">
-<!-- Light Mode -->
-<a href="https://www.linkedin.com/in/bilal-emir-kocao%C4%9Flu-375622238/#gh-light-mode-only" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on LinkedIn">
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/bilal-emir-kocao%C4%9Flu-375622238/#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on LinkedIn">
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
-<h3 align="left">Technologies:</h3>
+<h4 align="left">Styling & UI:</h4>
 <p align="left">
- <a href="https://angular.io/" target="_blank" rel="noopener"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/> 
-  </a>
-
- <a href="https://reactjs.org/" target="_blank" rel="noopener">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-  </a>
-    
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/> 
-  </a>
-    
- <a href="https://www.javascript.com/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> 
-  </a>
-    
- <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> 
-  </a>    
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="30" height="30"/> 
-  </a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="28" height="28"/> 
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/> 
-  </a>
-
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h4 align="left">Tools & Ecosystem:</h4>
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="30" height="30"/> 
-  </a>
-  <a href="https://discord.com/" target="_blank" rel="noopener"> 
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord" width="30" height="30"/> 
-  </a>
-  <a href="https://www.gitlab.com/" target="_blank" rel="noopener"> 
-    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-1-color-black-rgb.png" alt="GitLab" width="30" height="30"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noopener"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/> 
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/> 
-  </a>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux Toolkit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirkcgl&layout=compact&langs_count=6&theme=default)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Emirkegl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirkegl&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Langs" />
+  </a>
+</
