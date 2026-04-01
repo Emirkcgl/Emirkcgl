@@ -59,7 +59,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Emirkcgl">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirkegl&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Langs" />
+  <a href="https://github.com/Emirkcgl" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emirkcgl&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Langs" />
   </a>
-</
+</p>
