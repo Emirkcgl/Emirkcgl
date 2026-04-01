@@ -6,7 +6,7 @@
   <a href="https://www.emirkocaoglu.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-www.emirkocaoglu.com-brightgreen?style=for-the-badge&logo=appveyor" alt="Website Status">
   </a>
-  <a href="https://linkedin.com/in/bilal-emir-kocaoglu" target="_blank">
+  <a href="https://www.linkedin.com/in/bilal-emir-kocao%C4%9Flu-375622238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:emirkocaoglu05@gmail.com">
